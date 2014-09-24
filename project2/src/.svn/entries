@@ -1,0 +1,40 @@
+10
+
+dir
+59
+svn://zecurityproject.dnsdynamic.com/project2/src
+svn://zecurityproject.dnsdynamic.com
+
+
+
+2012-02-22T18:34:39.160549Z
+59
+aaberg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f37ed53f-d991-5d48-9cfa-faccce8d836e
+
+client
+dir
+
+database
+dir
+
+server
+dir
+
+tests
+dir
+

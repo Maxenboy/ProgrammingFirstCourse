@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class sdfg {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int value = scan.nextInt();
+		String s = null;
+		int ej = 0;
+		if (value > 1) {
+			double sqrt = Math.sqrt(value);
+			System.out.println(sqrt);
+			for (double i = 2; i <= sqrt; i++) {
+				if (value % i == 0.0) {
+					ej++;
+				}
+			}
+			if (ej>0){
+				s="false";
+			}else{
+				s="true";
+			}
+		}
+		System.out.println(s);
+	}
+
+}

@@ -1,0 +1,9 @@
+public class sdfsd {
+	public static void main(String[] args) {
+		int[] nbrs = new int[10];
+		for (int i = 0; i < nbrs.length; i++) {
+			nbrs[i] = i + 1;
+		}
+
+	}
+}

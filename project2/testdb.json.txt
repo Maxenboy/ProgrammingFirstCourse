@@ -1,0 +1,1 @@
+{"Backup":{"1":"hallã¥ dã¤r","Antal":1},"Sven Olsson":{"Dr":"Lena Skorsten","Nurse":"Ture Korssten","Jour":"jag heter sven","Div":"HNS"},"Anne Ahl":{"Dr":"Inge Smart","Nurse":"Gay Lordsson","Jour":"Anne Ahls journal / beskriver gruvliga kval. / Hon halkade p� topp / men landa' l�ngt ner i dal.","Div":"Orto"}}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommitComments>	<CommitComment>Har skapat audit log på servern
+
+Skapat:
+En metod vid namn Date som tar reda på det aktuella datumet och tiden
+
+Loggen ser ut så här
+
+doctor : lena skorsten
+wrote on sven olssons journal
+@ yyyy mm dd hh:mm:ss
+
+och kan ses i serverkonsollen efter att ett request har lyckats</CommitComment>
+	<CommitComment>Tar bort out</CommitComment>
+	<CommitComment>Tog bort OUT</CommitComment>
+	<CommitComment>Lagt till socialstyrelsen certs och dylikt
+ligger i samma filmapp</CommitComment>
+	<CommitComment>Ändrade logiken i readjournal
+
+Ändrat paranteser så division spelar roll</CommitComment>
+	<CommitComment>Skapat cert för alla användare
+Allt ligger i mappen rightfiles, även vårt shellsscript och dylikt</CommitComment>
+	<CommitComment>Ändrade i readJornal
+
+Ändrat:
+division.equals(&quot;socialstyrelsen&quot;) ---&gt; userType.equals(&quot;socialstyrelsen&quot;)</CommitComment>
+	<CommitComment>test commit.
+La till dokumentation på en metod
+
+// max</CommitComment>
+</CommitComments>

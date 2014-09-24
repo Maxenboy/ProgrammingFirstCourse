@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class sdfg {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int value = scan.nextInt();
+		if (value > 1) {
+			double sqrt = Math.sqrt(value);
+			for (int i = 0; i <= sqrt; i++) {
+
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+
+public class sdfsd {
+public static void main(String [] args){
+	String s = "Maria";
+	System.out.println(s.length());
+}
+}
